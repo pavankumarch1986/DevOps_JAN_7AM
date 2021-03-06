@@ -1,4 +1,4 @@
-Why DEVOPS?
+
 
 - Shorter development lifecycle and faster innovation
 - Improved communication and collabration
